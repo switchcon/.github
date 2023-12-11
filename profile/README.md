@@ -4,6 +4,13 @@
 
 ---
 
+## 👨‍💻Team member👩‍💻
+| [박지민](https://github.com/Jimin0304) | [양원석](https://github.com/yangws1) | [전유찬](https://github.com/jeon-yuchan) | [조승효](https://github.com/Joseunghyo7742) |
+| :---: | :---: | :---: | :---: |
+| Back-End | OCR/Proxy | Front-End | Front-End |
+
+<br>
+
 ## 결과 화면
 | 로그인 / 회원가입 / 홈페이지|
 | :------: |
@@ -24,20 +31,13 @@
 
 ---
 
-## 👨‍💻Team member👩‍💻
-| [박지민](https://github.com/Jimin0304) | [양원석](https://github.com/yangws1) | [전유찬](https://github.com/jeon-yuchan) | [조승효](https://github.com/Joseunghyo7742) |
-| :---: | :---: | :---: | :---: |
-| Back-End | OCR/Proxy | Front-End | Front-End |
-
-<br>
-
 ### ⚙️Usecase Diagram
-<img width="451" alt="image" src="https://github.com/switchcon/.github/assets/74671573/2189e385-741e-4614-8465-536889def59f">
+<img width="600" alt="image" src="https://github.com/switchcon/.github/assets/74671573/2189e385-741e-4614-8465-536889def59f">
 
 
 <br>
 
 ### 🖥️ Tech Stack
-<img width="431" alt="image" src="https://github.com/switchcon/.github/assets/74671573/bec7ba5f-3cea-4bc7-b682-941c100472e9">
+<img width="600" alt="image" src="https://github.com/switchcon/.github/assets/74671573/bec7ba5f-3cea-4bc7-b682-941c100472e9">
 
 

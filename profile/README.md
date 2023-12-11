@@ -7,23 +7,19 @@
 ## 결과 화면
 | 로그인 / 회원가입 / 홈페이지|
 | :------: |
-| <img width="600" alt="image" src="https://github.com/switchcon/.github/assets/74671573/21710057-0405-4439-976f-146f3c673e0e">
- |
+| <img width="600" alt="image" src="https://github.com/switchcon/.github/assets/74671573/21710057-0405-4439-976f-146f3c673e0e"> |
 
 | 기프티콘 등록|
 | :------: |
-| <img width="600" alt="image" src="https://github.com/switchcon/.github/assets/74671573/7fe6980a-8046-4718-aba1-bc2b3f483a18">
- |
+| <img width="600" alt="image" src="https://github.com/switchcon/.github/assets/74671573/7fe6980a-8046-4718-aba1-bc2b3f483a18"> |
 
 | 기프티콘 교환게시물 |
 | :------: |
-| <img width="600" alt="image" src="https://github.com/switchcon/.github/assets/74671573/2052f627-33a7-4e76-b77d-39200f07c79f">
- |
+| <img width="600" alt="image" src="https://github.com/switchcon/.github/assets/74671573/2052f627-33a7-4e76-b77d-39200f07c79f"> |
 
 | 기프티콘 교환요청 |
 | :------: |
-| <img width="600" alt="image" src="https://github.com/switchcon/.github/assets/74671573/2700efec-42c6-4d1a-bc99-cf6460aa0075">
- |
+| <img width="600" alt="image" src="https://github.com/switchcon/.github/assets/74671573/2700efec-42c6-4d1a-bc99-cf6460aa0075"> |
 
 
 ---
